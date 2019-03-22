@@ -1,8 +1,9 @@
 # Workshop Abstract
 Our understanding of modern neural networks lags behind their practical successes.
-We believe the pace of progress will flag as this understanding gap grows because fewer pillars of knowledge will be available to designers of models and algorithms.
-This workshop tries to close this understanding gap by soliciting contributions that view the behavior of deep nets as natural phenomenon to investigate with methods inspired from the natural sciences, like physics, astronomy, chemistry, and biology.
-We solicit empirical work that isolates phenomena in deep nets, describes them quantitatively, then replicates them, or falsifies them.
+As this understanding gap grows, it poses a serious challenge to the future pace of progress because fewer pillars of knowledge will be available to designers of models and algorithms.
+This workshop aims to close this understanding gap in deep learning.
+It solicits contributions that view the behavior of deep nets as a natural phenomenon to investigate with methods inspired from the natural sciences, like physics, astronomy, and biology.
+We solicit empirical work that isolates phenomena in deep nets, describes them quantitatively, and then replicates or falsifies them.
 
 
 # Confirmed Speakers
