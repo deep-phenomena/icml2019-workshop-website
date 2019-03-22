@@ -8,6 +8,7 @@ We solicit empirical work that isolates phenomena in deep nets, describes them q
 
 # Confirmed Speakers
 - [Konrad Kording](http://koerding.com/) (University of Pennsylvania)
+- [Aude Oliva](http://cvcl.mit.edu/) (MIT)
 - [Benjamin Recht](https://people.eecs.berkeley.edu/~brecht/) (UC Berkeley)
 - [Olga Russakovsky](http://www.cs.princeton.edu/~olgarus/) (Princeton University)
 - [Andrew Saxe](http://decisions.psy.ox.ac.uk/people/saxe_site/) (University of Oxford)
