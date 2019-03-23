@@ -45,6 +45,9 @@ We especially welcome work that carefully characterizes the limits of the phenom
 We do not require an explanation of _why_ a phenomenon might occur, only demonstrations that it does so reliably (or refutations).
 We hope that the catalogue of phenomena we accumulate will be embraced as a starting point for a better understanding of deep learning.
 
+The concrete submission instructions (format, submissions system, etc.) will be announced here shortly.
+
+
 
 
 # Important Dates
