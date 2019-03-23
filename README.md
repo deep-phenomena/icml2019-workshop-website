@@ -16,7 +16,7 @@ As a starting point for this effort, we focus on the interplay between data, net
 - [Olga Russakovsky](http://www.cs.princeton.edu/~olgarus/) (Princeton University)
 - [Andrew Saxe](http://decisions.psy.ox.ac.uk/people/saxe_site/) (University of Oxford)
 - [Nati Srebro](https://ttic.uchicago.edu/~nati/) (TTI Chicago)
-- [Christian Szegedy](https://ai.google/research/people/ChristianSzegedy) (Google Brain)
+- [Christian Szegedy](https://ai.google/research/people/ChristianSzegedy) (Google)
 
 
 # Schedule
