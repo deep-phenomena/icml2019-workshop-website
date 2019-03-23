@@ -29,16 +29,29 @@ _To be announced_
 
 We solicit the following kind of experimental work:
 
-- **Interesting and unusual behaviour observed on deep nets:** Interactions between datasets, architecture, and optimization procedures can give rise to curious behaviors in deep learning. “Interesting” and “unusual” are subjective, but any result that is carefully studied -- whether it violates or supports intuition and folklore -- is welcome. The phenomenon should be defined in a (mathematically) unambiguous way. For example, if the phenomenon is about “internal covariate shift” or “sharpness of a local minimum”, the submission should present quantifiable candidate definitions of these quantities.
+- **Interesting and unusual behaviour observed in deep nets:**
+Interactions between datasets, architecture, and optimization procedures can give rise to curious behaviors in deep learning.
+“Interesting” and “unusual” are subjective, but any result that is carefully studied - whether it violates or supports intuition and folklore - is welcome.
+The phenomenon should be defined in a (mathematically) unambiguous way.
+For example, if the phenomenon is about “internal covariate shift” or “sharpness of a local minimum”, the submission should present quantifiable candidate definitions of these quantities.
 
 
-- **Using sufficiently large and well-known models and datasets:** We request that experiments to be run on the largest model and dataset that are appropriate for the phenomenon of interest. We prefer well-known published models such as Resnet-50, Inception V3. We prefer large, standard datasets such as ImageNet or LibriSpeech. CIFAR-10 is appropriate for phenomena with heavy computational demands, or in a study of the scaling behavior of deep nets as the size of the dataset varies, when it is paired with at least one other large dataset. We discourage results that have been demonstrated only on MNIST. Toy models (1-hidden layer MLP and the like) on synthetic datasets are appropriate for isolating a phenomenon once it has been observed in a realistic setting. 
+- **Using sufficiently large and well-known models and datasets:**
+We request that experiments to be run on the largest model and dataset that are appropriate for the phenomenon of interest. 
+We prefer well-known published models such as Resnet-50 or Inception V3 and large, standard datasets such as ImageNet or LibriSpeech.
+CIFAR-10 is appropriate for phenomena with heavy computational demands, or in a study of the scaling behavior of deep nets as the size of the dataset varies, when CIFAR-10 is paired with at least one other large dataset.
+We discourage results that have been demonstrated only on MNIST.
+Toy models (1-hidden layer MLP and the like) on synthetic datasets are appropriate for isolating a phenomenon once it has been observed in a realistic setting. 
 
 
-- **Reproducible:** The phenomenon should be easy to reproduce by the community. We seek phenomena that occur when the  experiment is run many times, across diverse models and datasets. We encourage the use of standard statistical tools (hypothesis testing, confidence intervals, etc) to demonstrate the extent and significance of a phenomenon. We also encourage submissions to release code, and statistical analysis in Jupyter notebook format.
+- **Reproducible:** The phenomenon should be easy to reproduce by the community.
+We seek phenomena that occur when the  experiment is run many times, across diverse models and datasets.
+We encourage the use of standard statistical tools (hypothesis testing, confidence intervals, etc) to demonstrate the extent and significance of a phenomenon.
+We also encourage submissions to release code, and statistical analysis in Jupyter notebook format.
 
 
-- **Isolated and analyzed:**  We prefer small and precisely described phenomena over complex ones with imprecise descriptions. Phenomena should be stated in a quantifiable way. For example, when stating that “residual connections reduce the sensitivity of training procedures to parameter initialization”, the terms “reduce”, “sensitivity”, and “residual connections” should be defined explicitly.
+- **Isolated and analyzed:**  We prefer small and precisely described phenomena over complex ones with imprecise descriptions.
+Phenomena should be stated in a quantifiable way. For example, when stating that “residual connections reduce the sensitivity of training procedures to parameter initialization”, the terms “reduce”, “sensitivity”, and “residual connections” should be defined explicitly.
 
 
 We specifically **do not** require the phenomenon to be novel. We value instead a formalization of the phenomenon, followed by reliable evidence to support it or a thorough refutation of it.
