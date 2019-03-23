@@ -46,12 +46,13 @@ Toy models (1-hidden layer MLP and the like) on synthetic datasets are appropria
 
 - **Reproducible:** The phenomenon should be easy to reproduce by the community.
 We seek phenomena that occur when the  experiment is run many times, across diverse models and datasets.
-We encourage the use of standard statistical tools (hypothesis testing, confidence intervals, etc) to demonstrate the extent and significance of a phenomenon.
+We encourage a thorough statistical analysis of the experiments to demonstrate the extent and significance of a phenomenon.
 We also encourage submissions to release code, and statistical analysis in Jupyter notebook format.
 
 
 - **Isolated and analyzed:**  We prefer small and precisely described phenomena over complex ones with imprecise descriptions.
-Phenomena should be stated in a quantifiable way. For example, when stating that “residual connections reduce the sensitivity of training procedures to parameter initialization”, the terms “reduce”, “sensitivity”, and “residual connections” should be defined explicitly.
+Phenomena should be stated in a quantifiable way.
+For example, when stating that “residual connections reduce the sensitivity of training procedures to parameter initialization”, the terms “reduce”, “sensitivity”, and “residual connections” should be defined explicitly.
 
 
 We specifically **do not** require the phenomenon to be novel. We value instead a formalization of the phenomenon, followed by reliable evidence to support it or a thorough refutation of it.
