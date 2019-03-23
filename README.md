@@ -3,7 +3,7 @@ Our understanding of modern neural networks lags behind their practical successe
 As this understanding gap grows, it poses a serious challenge to the future pace of progress because fewer pillars of knowledge will be available to designers of models and algorithms.
 This workshop aims to close this understanding gap in deep learning.
 It solicits contributions that view the behavior of deep nets as a natural phenomenon to investigate with methods inspired from the natural sciences, like physics, astronomy, and biology.
-We solicit empirical work that isolates phenomena in deep nets, describes them quantitatively, and then replicates or falsifies them.
+We call for empirical work that isolates phenomena in deep nets, describes them quantitatively, and then replicates or falsifies them.
 
 As a starting point for this effort, we focus on the interplay between data, network architecture, and training algorithms. We are looking for contributions that identify precise, reproducible phenomena, as well as systematic studies and evaluations of current beliefs such as “sharp local minima do not generalize well” or “SGD navigates out of local minima”. Through the workshop, we hope to catalogue quantifiable versions of such statements, and demonstrate whether they occur reproducibly.
 
