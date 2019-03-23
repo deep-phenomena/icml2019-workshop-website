@@ -21,7 +21,7 @@ As a starting point for this effort, we focus on the interplay between data, net
 
 # Schedule
 
-TBD
+_To be announced_
 
 
 # Call for Papers and Submission Instructions
