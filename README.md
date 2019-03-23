@@ -56,15 +56,15 @@ The submission instructions (format, submissions system, etc.) will be announced
 - Workshop: June 14th or 15th, 2019
 
 # Organizers
-- [Samy Bengio](https://bengio.abracadoudou.com/) (Google Brain)
+- [Samy Bengio](https://bengio.abracadoudou.com/) (Google)
 - [Kenji Hata]() (Google)
 - [Aleksander Mądry](https://people.csail.mit.edu/madry/) (MIT)
 - [Ari Morcos](http://www.arimorcos.com/) (Facebook AI Research)
 - [Behnam Neyshabur](https://www.neyshabur.net/) (NYU)
-- [Maithra Raghu](http://maithraraghu.com/) (Cornell University and Google Brain)
+- [Maithra Raghu](http://maithraraghu.com/) (Cornell University and Google)
 - [Ali Rahimi]() (Google)
 - [Ludwig Schmidt](http://people.csail.mit.edu/ludwigs/) (UC Berkeley)
-- [Hanie Sedghi]() (Google Brain)
+- [Hanie Sedghi]() (Google)
 - [Ying Xiao](https://ai.google/research/people/YingXiao) (Google)
 
 Please email [icml2019phenomena@gmail.com](mailto:icml2019phenomena@gmail.com) with any questions.
