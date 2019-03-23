@@ -64,4 +64,4 @@ We hope that the catalogue of phenomena we accumulate will be embraced as a star
 - [Hanie Sedghi]() (Google Brain)
 - [Ying Xiao](https://ai.google/research/people/YingXiao) (Google)
 
-Please email icml2019phenomena@gmail.com with any questions.
+Please email [icml2019phenomena@gmail.com](mailto:icml2019phenomena@gmail.com) with any questions.
