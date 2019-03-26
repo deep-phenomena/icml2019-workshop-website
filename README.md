@@ -1,4 +1,4 @@
-# Workshop Abstract
+#Workshop Abstract
 Our understanding of modern neural networks lags behind their practical successes.
 This growing gap poses a challenge to the pace of progress in machine learning because fewer pillars of knowledge are available to designers of models and algorithms.
 This workshop aims to close this understanding gap.
@@ -66,8 +66,8 @@ The submission instructions (format, submissions system, etc.) will be announced
 
 
 # Important Dates
-- Submission Deadline: TBD
-- Notification: TBD
+- Submission Deadline: May 5, 2019
+- Notification: May 30, 2019 (early notification available upon request)
 - Workshop: June 14th or 15th, 2019
 
 # Organizers
