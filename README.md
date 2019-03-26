@@ -1,4 +1,4 @@
-#Workshop Abstract
+# Workshop Abstract
 Our understanding of modern neural networks lags behind their practical successes.
 This growing gap poses a challenge to the pace of progress in machine learning because fewer pillars of knowledge are available to designers of models and algorithms.
 This workshop aims to close this understanding gap.
