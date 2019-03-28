@@ -79,7 +79,7 @@ The submission instructions (format, submissions system, etc.) will be announced
 - [Maithra Raghu](http://maithraraghu.com/) (Cornell University and Google)
 - [Ali Rahimi]() (Google)
 - [Ludwig Schmidt](http://people.csail.mit.edu/ludwigs/) (UC Berkeley)
-- [Hanie Sedghi]() (Google)
+- [Hanie Sedghi](https://ai.google/research/people/HanieSedghi) (Google)
 - [Ying Xiao](https://ai.google/research/people/YingXiao) (Google)
 
 Please email [icml2019phenomena@gmail.com](mailto:icml2019phenomena@gmail.com) with any questions.
