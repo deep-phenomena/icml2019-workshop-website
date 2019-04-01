@@ -68,7 +68,7 @@ The submission instructions (format, submissions system, etc.) will be announced
 # Important Dates
 - Submission Deadline: May 5, 2019
 - Notification: May 30, 2019 (early notification available upon request)
-- Workshop: June 14th or 15th, 2019
+- Workshop: June 15th, 2019
 
 # Organizers
 - [Samy Bengio](https://bengio.abracadoudou.com/) (Google)
