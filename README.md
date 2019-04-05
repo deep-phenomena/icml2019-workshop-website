@@ -60,7 +60,7 @@ We especially welcome work that carefully characterizes the limits of the phenom
 We do not require an explanation of _why_ a phenomenon might occur, only demonstrations that it does so reliably (or refutations).
 We hope that the catalogue of phenomena we accumulate will serve as a starting point for a better understanding of deep learning.
 
-Please submit your paper through OpenReview: [https://openreview.net/group?id=ICML.cc/2019/Workshop/Deep_Phenomena]
+Please submit your paper through OpenReview: [https://openreview.net/group?id=ICML.cc/2019/Workshop/Deep_Phenomena](https://openreview.net/group?id=ICML.cc/2019/Workshop/Deep_Phenomena).
 
 The main part of a submission should be at most **4 pages** long.
 These first 4 pages should contain a definition of the phenomena of interest and the main experimental results.
