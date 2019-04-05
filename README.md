@@ -63,10 +63,10 @@ We hope that the catalogue of phenomena we accumulate will serve as a starting p
 Please submit your paper through OpenReview: [https://openreview.net/group?id=ICML.cc/2019/Workshop/Deep_Phenomena](https://openreview.net/group?id=ICML.cc/2019/Workshop/Deep_Phenomena).
 
 The main part of a submission should be at most **4 pages** long.
-These first 4 pages should contain a definition of the phenomena of interest and the main experimental results.
+These first four pages should contain a definition of the phenomena of interest and the main experimental results.
 Extra space for references, acknowledgements, and details in the appendix is unlimited.
 
-Papers should be formatted with at least a 10 pt font and a 1 inch margin.
+Papers should be formatted with at least a 10 pt font, standard line spacing, and a 1 inch margin.
 We do not require a specific formatting style beyond these constraints.
 
 
