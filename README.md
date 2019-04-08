@@ -25,7 +25,7 @@ Through the workshop, we hope to catalogue quantifiable versions of such stateme
 _To be announced_
 
 
-# Call for Papers and Submission Instructions
+# Call for Papers
 
 We solicit the following kind of experimental work:
 
