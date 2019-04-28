@@ -82,7 +82,7 @@ Submission must be anonymized.
 - [Samy Bengio](https://bengio.abracadoudou.com/) (Google)
 - [Kenji Hata]() (Google)
 - [Aleksander Mądry](https://people.csail.mit.edu/madry/) (MIT)
-- [Ari Morcos](http://www.arimorcos.com/) (Facebook AI Research)
+- [Ari Morcos](http://www.arimorcos.com/) (Facebook)
 - [Behnam Neyshabur](https://www.neyshabur.net/) (NYU)
 - [Maithra Raghu](http://maithraraghu.com/) (Cornell University and Google)
 - [Ali Rahimi]() (Google)
