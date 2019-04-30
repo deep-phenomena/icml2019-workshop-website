@@ -74,7 +74,7 @@ Submission must be anonymized.
 
 
 # Important Dates
-- Submission Deadline: May 5, 2019
+- Submission Deadline: May 5, 2019 (11:59 pm PST)
 - Notification: May 30, 2019 (early notification available upon request)
 - Workshop: June 15th, 2019
 
