@@ -74,11 +74,13 @@ Submission must be anonymized.
 
 
 # Important Dates
-- Submission Deadline: May 5, 2019 (11:59 pm PST)
-- Notification: May 30, 2019 (early notification available upon request)
+
+- Submission Deadline (*extended*): May 24, 2019 (11:59 pm PST) 
+- Notification: May 31, 2019
 - Workshop: June 15th, 2019
 
 # Organizers
+
 - [Samy Bengio](https://bengio.abracadoudou.com/) (Google)
 - [Kenji Hata]() (Google)
 - [Aleksander Mądry](https://people.csail.mit.edu/madry/) (MIT)
