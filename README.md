@@ -24,6 +24,60 @@ Through the workshop, we hope to catalogue quantifiable versions of such stateme
 _To be announced_
 
 
+# Accepted Papers
+
+- [Line attractor dynamics in recurrent networks for sentiment classiﬁcation](https://openreview.net/forum?id=SJlKDVS2hV)  
+*Niru Maheswaranathan, Alex H. Williams, Matthew D. Golub, Surya Ganguli, and David Sussillo*
+- [Do deep neural networks learn shallow learnable examples first?](https://openreview.net/forum?id=HkxHv4rn24)  
+*Karttikeya Mangalam and Vinay Uday Prabhu*
+- [The Difficulty of Training Sparse Neural Networks](https://openreview.net/forum?id=SyeyPEH23N)  
+*Utku Evci, Fabian Pedregosa, Aidan Gomez, and Erich Elsen*
+- [Channel Normalization in Convolutional Neural Network avoids Vanishing Gradients](https://openreview.net/forum?id=rJxBv4r22V)  
+*Zhenwei Dai and Reinhard Heckel*
+- [Batch Normalization is a Cause of Adversarial Vulnerability](https://openreview.net/forum?id=BkxOwVShhE)  
+*Angus Galloway, Anna Golubeva, Thomas Tanay, Medhat Moussa, and Graham W. Taylor*
+- [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://openreview.net/forum?id=rkeTDNS3hN)  
+*Hattie Zhou, Janice Lan, Rosanne Liu, and Jason Yosinski*
+- [A Systematic Framework for Natural Perturbations from Videos](https://openreview.net/forum?id=SklRoy3qaN)  
+*Vaishaal Shankar, Achal Dave, Rebecca Roelofs, Deva Ramanan, Benjamin Recht, and Ludwig Schmidt*
+- [Identity Crisis: Memorization and Generalization Under Extreme Overparameterization](https://openreview.net/forum?id=SkxT8ESh3E)  
+*Chiyuan Zhang, Samy Bengio, Moritz Hardt, Michael C. Mozer, and Yoram Singer*
+- [Scaling Characteristics of Sequential Multitask Learning: Networks naturally learn to learn](https://openreview.net/forum?id=Bygi-YNNC4)  
+*Guy Davidson and Michael C. Mozer*
+- [Emergence of Implicit Filter Sparsity in Convolutional Neural Networks](https://openreview.net/forum?id=rylVvNS3hE)  
+*Dushyant Mehta, Kwang In Kim, and Christian Theobalt*
+- [In Support of Over-Parametrization in Deep Reinforcement Learning: an Empirical Study](https://openreview.net/forum?id=SkeMPEH32N)  
+*Brady Neal and Ioannis Mitliagkas*
+- [A Modern Take on the Bias-Variance Tradeoff in Neural Networks](https://openreview.net/forum?id=B1guPVr2h4)  
+*Brady Neal, Sarthak Mittal, Aristide Baratin, Vinayak Tantia, Matthew Scicluna, Simon Lacoste-Julien, and Ioannis Mitliagkas*
+- [Memorization in Overparameterized Autoencoders](https://openreview.net/forum?id=BJeZw4B334)  
+*Adityanarayanan Radhakrishnan, Mikhail Belkin, and Caroline Uhler*
+- [The Effect of Network Depth on the Optimization Landscape](https://openreview.net/forum?id=SyxJ2y2qaE)  
+*Behrooz Ghorbani, Shankar Krishnan, and Ying Xiao*
+- [Does adversarial training hurt or help generalization?](https://openreview.net/forum?id=SyxM3J256E)  
+*Aditi Raghunathan, Michael Xie, Fanny Yang, and Percy Liang*
+- [Bad Global Minima Exist and SGD Can Reach Them](https://openreview.net/forum?id=SJxooJh5TE)  
+*Shengchao Liu, Dimitris Papailiopoulos, and Dimitris Achlioptas*
+- [Sparsity Emerges Naturally in Neural Language Models](https://openreview.net/forum?id=H1ets1h56E)  
+*Naomi Saphra and Adam Lopez*
+- [On the Convex Behavior of Deep Neural Networks in Relation to the Layers' Width](https://openreview.net/forum?id=rJgzwVH2nE)  
+*Etai Littwin and Lior Wolf*
+- [Using effective dimension to analyze feature transformations in deep neural networks](https://openreview.net/forum?id=HJGsj13qTE)  
+*Kavya Ravichandran, Ajay Jain, and Alexander Rakhlin*
+- [On Understanding the Hardness of Samples in Neural Networks](https://openreview.net/forum?id=r1l3P4Sn34)  
+*Beidi Chen, Weiyang Liu, Animesh Garg, Zhiding Yu, Bartley Richardson, Anshumali Shrivastava, and Anima Anandkumar*
+- [Are All Layers Created Equal?](https://openreview.net/forum?id=ryg1P4Sh2E)  
+*Chiyuan Zhang, Samy Bengio, and Yoram Singer*
+- [Invariance-inducing regularization using worst-case transformations suffices to boost accuracy and spatial robustness](https://openreview.net/forum?id=B1e6oy39aE)  
+*Fanny Yang, Zuowen Wang, and Christina Heinze-Deml*
+- [Layer rotation: a surprisingly simple indicator of generalization in deep networks?](https://openreview.net/forum?id=B1g4DEB234)  
+*Simon Carbonnelle and Christophe De Vleeschouwer*
+- [Predicting the accuracy of neural networks from final and intermediate layers](https://openreview.net/forum?id=H1xXwEB2h4)  
+*Chad DeChant, Seungwook Han, and Hod Lipson*
+- [Sensitivity of Deep Convolutional Networks to Gabor Noise](https://openreview.net/forum?id=HJx08NSnnE)  
+*Kenneth T. Co, Luis Muñoz-González, and Emil C. Lupu*
+
+
 # Call for Papers
 
 We solicit the following kind of experimental work:
