@@ -13,7 +13,6 @@ Through the workshop, we hope to catalogue quantifiable versions of such stateme
 # Confirmed Speakers
 - [Konrad Kording](http://koerding.com/) (University of Pennsylvania)
 - [Aude Oliva](http://cvcl.mit.edu/) (MIT)
-- [Benjamin Recht](https://people.eecs.berkeley.edu/~brecht/) (UC Berkeley)
 - [Olga Russakovsky](http://www.cs.princeton.edu/~olgarus/) (Princeton University)
 - [Andrew Saxe](http://decisions.psy.ox.ac.uk/people/saxe_site/) (University of Oxford)
 - [Nati Srebro](https://ttic.uchicago.edu/~nati/) (TTI Chicago)
