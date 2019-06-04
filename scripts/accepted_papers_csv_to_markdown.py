@@ -24,7 +24,7 @@ with open(filename, 'r') as f:
 for p in papers:
     if p.decision != 'Accept':
         continue
-    print(f'- [{p.title}]({p.url})')
+    print(f'- [{p.title}]({p.url})  ')
     if len(p.authors) == 1:
         author_string = p.authors[0]
     elif len(p.authors) == 2:
