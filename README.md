@@ -105,7 +105,9 @@ We hope that the catalogue of phenomena we accumulate will serve as a starting p
 
 ## Submission Instructions
 
-Please submit your paper through OpenReview: [https://openreview.net/group?id=ICML.cc/2019/Workshop/Deep_Phenomena](https://openreview.net/group?id=ICML.cc/2019/Workshop/Deep_Phenomena).
+*Submissions are closed!*
+
+Please submit your paper through [OpenReview](https://openreview.net/group?id=ICML.cc/2019/Workshop/Deep_Phenomena).
 
 The main part of a submission should be at most **4 pages** long. These first four pages should contain a definition of the phenomena of interest and the main experimental results. There is no space limit for references, acknowledgements, and details included in appendices.
 
