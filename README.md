@@ -9,16 +9,6 @@ As a starting point for this effort, we focus on the interplay between data, net
 Through the workshop, we hope to catalogue quantifiable versions of such statements, and demonstrate whether they occur reliably.
 
 
-
-# Confirmed Speakers
-- [Konrad Kording](http://koerding.com/) (University of Pennsylvania)
-- [Aude Oliva](http://cvcl.mit.edu/) (MIT)
-- [Olga Russakovsky](http://www.cs.princeton.edu/~olgarus/) (Princeton University)
-- [Andrew Saxe](http://decisions.psy.ox.ac.uk/people/saxe_site/) (University of Oxford)
-- [Nati Srebro](https://ttic.uchicago.edu/~nati/) (TTI Chicago)
-- [Christian Szegedy](https://ai.google/research/people/ChristianSzegedy) (Google)
-
-
 # Schedule
 
 _To be announced_
