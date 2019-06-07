@@ -11,7 +11,18 @@ Through the workshop, we hope to catalogue quantifiable versions of such stateme
 
 # Schedule
 
-_To be announced_
+| Time | Event |
+| --- | --- |
+| 8:45 - 9:00 | Opening Remarks |
+| 9:00 - 9:30 | Nati Srebro: *Optimization’s Untold Gift to Learning: Implicit Regularization* |
+| 9:30 - 9:45 | *Bad Global Minima Exist and SGD Can Reach Them* |
+| 9:45 - 10:00 | *Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask* |
+| 10:00 - 10:30 | Chiyuan Zhang: *Are all layers created equal? - Studies on how neural networks represent functions* |
+| 10:30 - 11:00 | Break and Posters |
+| 11:00 - 11:15 | *Line attractor dynamics in recurrent networks for sentiment classiﬁcation* |
+| 11:15 - 11:30 | *Do deep neural networks learn shallow learnable examples first?* |
+| 11:30 - 12:00 | Crowdsourcing Deep Learning Phenomena |
+| 12:00 - 1:30 | Lunch and Posters |
 
 
 # Accepted Papers
