@@ -23,6 +23,13 @@ Through the workshop, we hope to catalogue quantifiable versions of such stateme
 | 11:15 - 11:30 | *Do deep neural networks learn shallow learnable examples first?* |
 | 11:30 - 12:00 | Crowdsourcing Deep Learning Phenomena |
 | 12:00 - 1:30 | Lunch and Posters |
+| 1:30 - 2:00 | Aude Oliva: Reverse engineering neuroscience and cognitive science principles |
+| 2:00 - 2:15 | *On Understanding the Hardness of Samples in Neural Networks* |
+| 2:15 - 2:30 | *On the Convex Behavior of Deep Neural Networks in Relation to the Layers' Width* |
+| 2:30 - 3:00 | Andrew Saxe |
+| 3:00 - 4:00 | Break and Posters |
+| 4:00 - 4:30 | Olga Russakovsky |
+| 4:30 - 5:30 | Panel Discussion |
 
 
 # Accepted Papers
