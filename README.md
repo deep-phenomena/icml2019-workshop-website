@@ -26,7 +26,7 @@ Through the workshop, we hope to catalogue quantifiable versions of such stateme
 | 1:30 - 2:00 | Aude Oliva: *Reverse engineering neuroscience and cognitive science principles* |
 | 2:00 - 2:15 | *On Understanding the Hardness of Samples in Neural Networks* |
 | 2:15 - 2:30 | *On the Convex Behavior of Deep Neural Networks in Relation to the Layers' Width* |
-| 2:30 - 3:00 | Andrew Saxe |
+| 2:30 - 3:00 | Andrew Saxe: *Intriguing phenomena in training and generalization dynamics of deep networks* |
 | 3:00 - 4:00 | Break and Posters |
 | 4:00 - 4:30 | Olga Russakovsky |
 | 4:30 - 5:30 | Panel Discussion |
