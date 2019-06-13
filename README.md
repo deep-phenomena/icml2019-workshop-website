@@ -1,5 +1,6 @@
-## Have you seen something interesting or curious or mysterious while training a deep neural network?
-## [Share these interesting and unusual deep learning phenomena here!](https://deep-phenomena.web.app/)
+### Have you seen something interesting or curious or mysterious while training a deep neural network?
+
+**[Share these interesting and unusual deep learning phenomena here!](https://deep-phenomena.web.app/)**
 
 # Workshop Abstract
 Our understanding of modern neural networks lags behind their practical successes.
