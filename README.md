@@ -1,3 +1,6 @@
+## Have you seen something interesting or curious or mysterious while training a deep neural network?
+## [Share these interesting and unusual deep learning phenomena here!](https://deep-phenomena.web.app/)
+
 # Workshop Abstract
 Our understanding of modern neural networks lags behind their practical successes.
 This growing gap poses a challenge to the pace of progress in machine learning because fewer pillars of knowledge are available to designers of models and algorithms.
