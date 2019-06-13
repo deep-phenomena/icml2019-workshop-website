@@ -18,17 +18,17 @@ Through the workshop, we hope to catalogue quantifiable versions of such stateme
 | --- | --- |
 | 8:45 - 9:00 | Opening Remarks |
 | 9:00 - 9:30 | Nati Srebro: *Optimization’s Untold Gift to Learning: Implicit Regularization* |
-| 9:30 - 9:45 | *Bad Global Minima Exist and SGD Can Reach Them* |
-| 9:45 - 10:00 | *Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask* |
+| 9:30 - 9:45 | Shengchao Liu: *Bad Global Minima Exist and SGD Can Reach Them* |
+| 9:45 - 10:00 | Hattie Zhou: *Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask* |
 | 10:00 - 10:30 | Chiyuan Zhang: *Are all layers created equal? - Studies on how neural networks represent functions* |
 | 10:30 - 11:00 | Break and Posters |
-| 11:00 - 11:15 | *Line attractor dynamics in recurrent networks for sentiment classiﬁcation* |
-| 11:15 - 11:30 | *Do deep neural networks learn shallow learnable examples first?* |
+| 11:00 - 11:15 | Niru Maheswaranathan: *Line attractor dynamics in recurrent networks for sentiment classiﬁcation* |
+| 11:15 - 11:30 | Karttikeya Mangalam: *Do deep neural networks learn shallow learnable examples first?* |
 | 11:30 - 12:00 | Crowdsourcing Deep Learning Phenomena |
 | 12:00 - 1:30 | Lunch and Posters |
 | 1:30 - 2:00 | Aude Oliva: *Reverse engineering neuroscience and cognitive science principles* |
-| 2:00 - 2:15 | *On Understanding the Hardness of Samples in Neural Networks* |
-| 2:15 - 2:30 | *On the Convex Behavior of Deep Neural Networks in Relation to the Layers' Width* |
+| 2:00 - 2:15 | Beidi Chen: *On Understanding the Hardness of Samples in Neural Networks* |
+| 2:15 - 2:30 | Lior Wolf: *On the Convex Behavior of Deep Neural Networks in Relation to the Layers' Width* |
 | 2:30 - 3:00 | Andrew Saxe: *Intriguing phenomena in training and generalization dynamics of deep networks* |
 | 3:00 - 4:00 | Break and Posters |
 | 4:00 - 4:30 | Olga Russakovsky |
