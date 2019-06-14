@@ -33,7 +33,7 @@ Through the workshop, we hope to catalogue quantifiable versions of such stateme
 | 2:30 - 3:00 | Andrew Saxe: *Intriguing phenomena in training and generalization dynamics of deep networks* |
 | 3:00 - 4:00 | Break and Posters |
 | 4:00 - 4:30 | Olga Russakovsky |
-| 4:30 - 5:30 | Panel Discussion | Kevin Murphy, Nati Srebro, Aude Oliva, Andrew Saxe, Olga Russakovsky. Moderator: Ali Rahimi 
+| 4:30 - 5:30 | Panel Discussion: Kevin Murphy, Nati Srebro, Aude Oliva, Andrew Saxe, Olga Russakovsky. Moderator: Ali Rahimi 
 
 
 # Accepted Papers
