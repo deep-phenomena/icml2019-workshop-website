@@ -32,7 +32,7 @@ Through the workshop, we hope to catalogue quantifiable versions of such stateme
 | 2:15 - 2:30 | Lior Wolf: *On the Convex Behavior of Deep Neural Networks in Relation to the Layers' Width* |
 | 2:30 - 3:00 | Andrew Saxe: *Intriguing phenomena in training and generalization dynamics of deep networks* |
 | 3:00 - 4:00 | Break and Posters |
-| 4:00 - 4:30 | Olga Russakovsky | *Strategies for mitigating social bias in deep learning systems* |
+| 4:00 - 4:30 | Olga Russakovsky  *Strategies for mitigating social bias in deep learning systems* |
 | 4:30 - 5:30 | Panel Discussion: Kevin Murphy, Nati Srebro, Aude Oliva, Andrew Saxe, Olga Russakovsky. Moderator: Ali Rahimi 
 
 
