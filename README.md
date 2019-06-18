@@ -12,6 +12,15 @@ We call for empirical work that isolates phenomena in deep nets, describes them 
 As a starting point for this effort, we focus on the interplay between data, network architecture, and training algorithms. We seek contributions that identify precise, reproducible phenomena, and studies of current beliefs such as “sharp local minima do not generalize well” or “SGD navigates out of local minima”.
 Through the workshop, we hope to catalogue quantifiable versions of such statements, and demonstrate whether they occur reliably.
 
+# Workshop Videos
+
+[Morning Session](https://www.facebook.com/icml.imls/videos/450413519084800/)
+
+[Pre-lunch Session](https://www.facebook.com/icml.imls/videos/855147788189057/)
+
+[Post-lunch Session](https://www.facebook.com/icml.imls/videos/2353033231653025/)
+
+[Afternoon Session](https://www.facebook.com/icml.imls/videos/2374820496098856/)
 
 # Schedule
 
