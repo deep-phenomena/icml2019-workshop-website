@@ -12,35 +12,30 @@ We call for empirical work that isolates phenomena in deep nets, describes them 
 As a starting point for this effort, we focus on the interplay between data, network architecture, and training algorithms. We seek contributions that identify precise, reproducible phenomena, and studies of current beliefs such as “sharp local minima do not generalize well” or “SGD navigates out of local minima”.
 Through the workshop, we hope to catalogue quantifiable versions of such statements, and demonstrate whether they occur reliably.
 
-# Workshop Videos
 
-[Morning Session](https://www.facebook.com/icml.imls/videos/450413519084800/)
-
-[Pre-lunch Session](https://www.facebook.com/icml.imls/videos/855147788189057/)
-
-[Post-lunch Session](https://www.facebook.com/icml.imls/videos/2353033231653025/)
-
-[Afternoon Session](https://www.facebook.com/icml.imls/videos/2374820496098856/)
-
-# Schedule
+# Schedule & Videos
 
 | Time | Event |
 | --- | --- |
+||[Morning session videos](https://www.facebook.com/icml.imls/videos/450413519084800/)|
 | 8:45 - 9:00 | Opening Remarks |
 | 9:00 - 9:30 | Nati Srebro: *Optimization’s Untold Gift to Learning: Implicit Regularization* |
 | 9:30 - 9:45 | Shengchao Liu: *Bad Global Minima Exist and SGD Can Reach Them* |
 | 9:45 - 10:00 | Hattie Zhou: *Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask* |
 | 10:00 - 10:30 | Chiyuan Zhang: *Are all layers created equal? - Studies on how neural networks represent functions* |
 | 10:30 - 11:00 | Break and Posters |
+||[Pre-lunch session videos](https://www.facebook.com/icml.imls/videos/855147788189057/)|
 | 11:00 - 11:15 | Niru Maheswaranathan: *Line attractor dynamics in recurrent networks for sentiment classiﬁcation* |
 | 11:15 - 11:30 | Karttikeya Mangalam: *Do deep neural networks learn shallow learnable examples first?* |
 | 11:30 - 12:00 | Crowdsourcing Deep Learning Phenomena |
 | 12:00 - 1:30 | Lunch and Posters |
+||[Post-lunch session videos](https://www.facebook.com/icml.imls/videos/2353033231653025/)|
 | 1:30 - 2:00 | Aude Oliva: *Reverse engineering neuroscience and cognitive science principles* |
 | 2:00 - 2:15 | Beidi Chen: *Angular Visual Hardness* |
 | 2:15 - 2:30 | Lior Wolf: *On the Convex Behavior of Deep Neural Networks in Relation to the Layers' Width* |
 | 2:30 - 3:00 | Andrew Saxe: *Intriguing phenomena in training and generalization dynamics of deep networks* |
 | 3:00 - 4:00 | Break and Posters |
+||[Afternoon session videos](https://www.facebook.com/icml.imls/videos/2374820496098856/)|
 | 4:00 - 4:30 | Olga Russakovsky:  *Strategies for mitigating social bias in deep learning systems* |
 | 4:30 - 5:30 | Panel Discussion: Kevin Murphy, Nati Srebro, Aude Oliva, Andrew Saxe, Olga Russakovsky. Moderator: Ali Rahimi 
 
