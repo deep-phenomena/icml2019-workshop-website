@@ -1,7 +1,3 @@
-### Have you seen something interesting or curious or mysterious while training a deep neural network?
-
-**[Share these interesting and unusual deep learning phenomena here!](https://deep-phenomena.web.app/)**
-
 # Workshop Abstract
 Our understanding of modern neural networks lags behind their practical successes.
 This growing gap poses a challenge to the pace of progress in machine learning because fewer pillars of knowledge are available to designers of models and algorithms.
@@ -27,7 +23,7 @@ Through the workshop, we hope to catalogue quantifiable versions of such stateme
 ||[Pre-lunch session videos](https://www.facebook.com/icml.imls/videos/855147788189057/)|
 | 11:00 - 11:15 | Niru Maheswaranathan: *Line attractor dynamics in recurrent networks for sentiment classiﬁcation* |
 | 11:15 - 11:30 | Karttikeya Mangalam: *Do deep neural networks learn shallow learnable examples first?* |
-| 11:30 - 12:00 | Crowdsourcing Deep Learning Phenomena |
+| 11:30 - 12:00 | [Crowdsourcing Deep Learning Phenomena](https://deep-phenomena.web.app/) |
 | 12:00 - 1:30 | Lunch and Posters |
 ||[Post-lunch session videos](https://www.facebook.com/icml.imls/videos/2353033231653025/)|
 | 1:30 - 2:00 | Aude Oliva: *Reverse engineering neuroscience and cognitive science principles* |
